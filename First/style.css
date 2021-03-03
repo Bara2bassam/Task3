@@ -1,0 +1,40 @@
+/* Start Div */
+div{
+    width:900px;
+    margin:100px auto;
+}
+/* End Div */
+
+/* Start Section */
+section{
+    display: inline-block;
+    width:400px;
+    height:500px;
+    
+}
+.left{
+    padding-right: 40px;
+}
+.right{
+    padding-left: 40px;
+}
+
+/* Start Paragraph */
+p{
+    color:#777777;
+}
+/* End Paragraph */
+
+/* Start Submit */
+input{
+    background-color: #854fee;
+    width:183px;
+    height:45px;
+    border-radius: 5px;
+    border:0;
+}
+/* End Submit */
+/* End Section */
+
+
+

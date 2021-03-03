@@ -1,0 +1,25 @@
+/* Start Div */
+div{
+    width:1137px;
+    margin:100px auto;
+}
+/* End Div */
+
+/* Start Section */
+section{
+    display:inline-block;
+    text-align:center;
+    background-color:#f7f7f7;
+    width:200px;
+    height:250px;
+    margin: 10px;
+    padding: 30px;
+}
+/* End Section */
+
+/* Start Paragraph */
+P{
+    color:#777777;
+    line-height: 1.7;
+}
+/* End Paragraph */
